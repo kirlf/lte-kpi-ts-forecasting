@@ -2,8 +2,8 @@ FROM python:3.8.3
 RUN mkdir /opt/kpi_lte
 WORKDIR /opt/kpi_lte
 
-COPY requirements1.txt .
-RUN pip install -r requirements1.txt
+COPY requirements.txt .
+RUN pip install -r requirements.txt
 
 
 EXPOSE 8888

@@ -10,3 +10,13 @@ For better visualization use the following link:
 > [E_RAB_SETUP_FR.ipynb](https://nbviewer.org/github/kirlf/lte-kpi-ts-forecasting/blob/main/src/E_RAB_SETUP_FR.ipynb) (NBViewer - Jupyter Notebook)
 
 If local usage is preferable but `Jupyter` is not locally installed, use the `docker-compose` to run application (some problems may occur in MacOS, unfortunately).
+
+## Next steps
+
+I guess, the following material:
+> [Predictive Analytics: Time-Series Forecasting with GRU and BiLSTM in TensorFlow](https://towardsdatascience.com/predictive-analytics-time-series-forecasting-with-gru-and-bilstm-in-tensorflow-87588c852915)
+
+can be uses as an example for the next student research projects.
+
+M.Sc. Vladimir Fadeev
+Kazan, 2022
